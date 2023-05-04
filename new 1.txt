@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<head>
+	<title> Java sript latihan </title>
+		<meta name="author" content="Alif Nur Samudra">
+</head>
+<body>
+	<div style="width:100%;background-color:#33E6FF; height:70px;float: left; left;text-align: center; color:white ">
+            Heder</div>
+</body>
